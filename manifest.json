@@ -1,0 +1,16 @@
+{
+  "name": "Coolbuy — Still Want It in 72 Hours?",
+  "short_name": "Coolbuy",
+  "description": "Lock an impulse purchase for 72 hours instead of buying it. Decide with a cold head, and watch the money you didn't spend add up.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F8F5EF",
+  "theme_color": "#F8F5EF",
+  "categories": ["finance", "lifestyle"],
+  "icons": [
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
